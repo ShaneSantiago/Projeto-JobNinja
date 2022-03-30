@@ -1,7 +1,7 @@
-# Projeto-JobNinja
+<h2>Pokedex</h2>
 
-Projeto inspirado em sites como o getninjas.
-Nele você consegue cadastrar um serviço, procurar algum serviço e para facilitar a buscar tem os filtro em que você pode escolher por titulo, preço, descrição
+<h5>Projeto inspirado em sites como o getninjas.
+Nele você consegue cadastrar um serviço, procurar algum serviço e para facilitar a buscar tem os filtro em que você pode escolher por titulo, preço, descrição</h5>
 
 <h5>Link do surge: <a href>numerous-moon.surge.sh
 </a></h5>
